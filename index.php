@@ -20,7 +20,7 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-black" href="song1.php">Song 1</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="song2.php">Song 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-black" href="#">Song 3</a></li>
+                        <li class="nav-item"><a class="nav-link text-black" href="song3.php">Song 3</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 4</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 5</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 6</a></li>
@@ -55,7 +55,7 @@
                         <p class="font-arial">Song 2: Lemon Tree: by Fools Garden.</p>
                         <p> You can <a href='song2.php'> click here </a> to proceed to the lyrics and guitar chords. </p> <br>
                         <p class="font-arial">Song 3: She Will Be Loved: by Maroon 5.</p>
-                        <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p>You can <a href='song3.php'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
                         <p class="font-arial">Song 4: LEVITATING: by Dua Lipa.</p>
                         <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
                         <p class="font-arial">Song 5: Just The Two Of Us: by Bill Withers.</p>
