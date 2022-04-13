@@ -18,12 +18,13 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-black" href="#">Song 1</a></li>
+                        <li class="nav-item"><a class="nav-link text-black" href="song1.php">Song 1</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 2</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 3</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 4</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 5</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="#">Song 6</a></li>
+                        <li class="nav-item"><a class="nav-link text-black" href="#">Song 7</a></li>
                     </ul>
                 </div>
             </div>
@@ -47,21 +48,22 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
+                        
                         <h2 class="text-black">Song Titles here:</h2> <br>
                         <p class="font-arial">Song 1: I Like You So Much, You'll Know It by: Ysabelle Cuevas.</p>
-                        <p> Please <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p> You can <a href='song1.php'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
                         <p class="font-arial">Song 2: Lemon Tree: by Fools Garden.</p>
-                        <p>Please <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p> You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords. </p> <br>
                         <p class="font-arial">Song 3: She Will Be Loved: by Maroon 5.</p>
-                        <p>Please <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
                         <p class="font-arial">Song 4: LEVITATING: by Dua Lipa.</p>
-                        <p>Please <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
                         <p class="font-arial">Song 5: Just The Two Of Us: by Bill Withers.</p>
-                        <p>Please <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
                         <p class="font-arial">Song 6: Love Grows: Edison Lighthouse.</p>
-                        <p>Please <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
                         <p class="font-arial">Song 7: We Are: by Hiroshi Kitadani.</p>
-                        <p>Please <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
 
                     </div>
                 </div>
