@@ -24,7 +24,7 @@
                         <li class="nav-item"><a class="nav-link text-black" href="song4.php">Song 4</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="song5.php">Song 5</a></li>
                         <li class="nav-item"><a class="nav-link text-black" href="song6.php">Song 6</a></li>
-                        <li class="nav-item"><a class="nav-link text-black" href="#">Song 7</a></li>
+                        <li class="nav-item"><a class="nav-link text-black" href="song7.php">Song 7</a></li>
                     </ul>
                 </div>
             </div>
@@ -50,20 +50,20 @@
                     <div class="col-lg-12 text-center">
                         
                         <h2 class="text-black">Song Titles here:</h2> <br>
-                        <p class="font-arial">Song 1: I Like You So Much, You'll Know It by: Ysabelle Cuevas.</p>
-                        <p> You can <a href='song1.php'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
-                        <p class="font-arial">Song 2: Lemon Tree: by Fools Garden.</p>
-                        <p> You can <a href='song2.php'> click here </a> to proceed to the lyrics and guitar chords. </p> <br>
-                        <p class="font-arial">Song 3: She Will Be Loved: by Maroon 5.</p>
-                        <p>You can <a href='song3.php'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
-                        <p class="font-arial">Song 4: LEVITATING: by Dua Lipa.</p>
-                        <p>You can <a href='song4.php'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
-                        <p class="font-arial">Song 5: Just The Two Of Us: by Bill Withers.</p>
-                        <p>You can <a href='song5.php'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
-                        <p class="font-arial">Song 6: Love Grows: Edison Lighthouse.</p>
-                        <p>You can <a href='song6.php'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
-                        <p class="font-arial">Song 7: We Are: by Hiroshi Kitadani.</p>
-                        <p>You can <a href='#'> click here </a> to proceed to the lyrics and guitar chords.</p> <br>
+                        <p class="font-arial"><b>Song 1: I LIKE YOU SO MUCH, YOU'LL KNOW IT: by Ysabelle Cuevas.</b></p>
+                        <p> <i>You can <a href='song1.php'> click here </a> to proceed to the lyrics and guitar chords.</i></p> <br>
+                        <p class="font-arial"><b>Song 2: LEMON TREE: by Fools Garden.</b></p>
+                        <p> <i>You can <a href='song2.php'> click here </a> to proceed to the lyrics and guitar chords. </i></p> <br>
+                        <p class="font-arial"><b>Song 3: SHE WILL BE LOVED: by Maroon 5.</b></p>
+                        <p> <i>You can <a href='song3.php'> click here </a> to proceed to the lyrics and guitar chords.</i></p> <br>
+                        <p class="font-arial"><b>Song 4: LEVITATING: by Dua Lipa.</b></p>
+                        <p> <i>You can <a href='song4.php'> click here </a> to proceed to the lyrics and guitar chords.</i></p> <br>
+                        <p class="font-arial"><b>Song 5: JUST THE TWO OF US: by Bill Withers.</b></p>
+                        <p> <i>You can <a href='song5.php'> click here </a> to proceed to the lyrics and guitar chords.</i></p> <br>
+                        <p class="font-arial"><b>Song 6: LOVE GROWS: Edison Lighthouse.</b></p>
+                        <p> <i>You can <a href='song6.php'> click here </a> to proceed to the lyrics and guitar chords.</i></p> <br>
+                        <p class="font-arial"><b>Song 7: WE ARE: by Hiroshi Kitadani.</b></p>
+                        <p> <i>You can <a href='song7.php'> click here </a> to proceed to the lyrics and guitar chords.</i></p> <br>
 
                     </div>
                 </div>
